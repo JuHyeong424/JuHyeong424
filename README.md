@@ -3,7 +3,7 @@
 ## 🏆 Baekjoon Tier
 
 <p align="left">
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=여기에_백준_아이디_입력" alt="Baekjoon Tier"/>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=jjh0424" alt="Baekjoon Tier"/>
 </p>
 
 ---
