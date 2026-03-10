@@ -22,8 +22,8 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.-ty7g.vercel.app/api?username=JuHyeong424&show_icons=true&theme=default" width="48%"/>
-  <img src="https://github-readme-stats.-ty7g.vercel.app/api/top-langs/?username=JuHyeong424&layout=compact&theme=default" width="48%"/>
+  <img src="https://github-readme-stats-ty7g.vercel.app/api?username=JuHyeong424&show_icons=true&theme=default" width="48%"/>
+  <img src="https://github-readme-stats-ty7g.vercel.app/api/top-langs/?username=JuHyeong424&layout=compact&theme=default" width="48%"/>
 </p>
 
 ---
